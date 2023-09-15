@@ -1,0 +1,7 @@
+
+compatibility_date = "2023-09-04"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "evan-brass-net"
+database_id = "da748ea3-e55b-4866-9db2-7c2bf5633f17"
