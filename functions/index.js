@@ -18,5 +18,5 @@ export function shell(title, body) {
 }
 
 export async function onRequestGet({request, env}) {
-	return Response(shell('Evan Brass', tmpl`Hello World`));
+	return new Response(shell('Evan Brass', tmpl`Hello World`));
 }
